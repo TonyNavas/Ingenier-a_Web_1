@@ -21,7 +21,15 @@
 Las etiquetas funcionan con etiquetas de apertura y de cierre aunque no simpre habran etiquetas de cierre por ejemplo:
 ```
 Asi es un parrafo </p1>
-```
+
 Asi es un salto de linea </br>
+```
+#### Atributos
+Los atributos son elementos que se representan en el formato nombre valor y sirven para modificar la funcionalidad de una etiqueta de HTML, siempre se agregan en la etiqueta de apertura
+por ejemplo:
+
+```
+<img scr="Imagen.png" widht="400" height="300">
+```
 
 
